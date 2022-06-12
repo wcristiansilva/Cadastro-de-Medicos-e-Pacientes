@@ -1,0 +1,8 @@
+#bt_add_con {
+    cursor: pointer;
+    color: #2b3f99;
+    display: block;
+    line-height: 2.5;
+    padding: 0.5rem 0.75rem;
+    position: relative;
+}
