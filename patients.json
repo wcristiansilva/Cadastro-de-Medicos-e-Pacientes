@@ -1,0 +1,38 @@
+[
+    {
+    "id": 371,
+    "nome": "Ed",
+    "dataNascimento": "2008-06-26",
+    "dataCadastro": "2022-06-11 06:46:02"
+    },
+    {
+    "id": 410,
+    "nome": "Testão",
+    "dataNascimento": "2022-06-08",
+    "dataCadastro": "2022-06-13 00:12:39"
+    },
+    {
+    "id": 411,
+    "nome": "Wanda Maximoff",
+    "dataNascimento": "1989-09-19",
+    "dataCadastro": "2022-06-13 00:24:05"
+    },
+    {
+    "id": 414,
+    "nome": "Mariazinha",
+    "dataNascimento": "1999-09-24",
+    "dataCadastro": "2022-06-13 00:45:57"
+    },
+    {
+    "id": 417,
+    "nome": "Cuzão",
+    "dataNascimento": "2022-06-01",
+    "dataCadastro": "2022-06-13 01:18:48"
+    },
+    {
+    "id": 418,
+    "nome": "Testão",
+    "dataNascimento": "2022-06-08",
+    "dataCadastro": "2022-06-13 02:09:02"
+    }
+    ]
